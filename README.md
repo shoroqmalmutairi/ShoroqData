@@ -9,5 +9,7 @@ My personal portfolio as a Data Analyst – Projects, Skills and Contact Info
 `Python` | `Power BI` | `Excel` | `SQL` | `Data Visualization`
 
 ## 📫 تواصل معي
-- [LinkedIn](www.linkedin.com/in/shoroq-muhammad-a27bba243)
+- [LinkedIn](www.linkedin.com/in/shoroq-muhammad-a27bba243
+
+)
 - [Email](mailto:Shoroqmalmutairi@gmail.com)
