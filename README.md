@@ -11,5 +11,6 @@ My personal portfolio as a Data Analyst – Projects, Skills and Contact Info
 ## 📫 تواصل معي
 - [LinkedIn](www.linkedin.com/in/shoroq-muhammad-a27bba243
 
+
 )
 - [Email](mailto:Shoroqmalmutairi@gmail.com)
